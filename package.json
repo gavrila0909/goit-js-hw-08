@@ -1,16 +1,15 @@
 {
-  "name": "parcel-project-template",
+  "name": "goit-js-hw-08",
   "version": "2.0.0",
   "description": "Этот проект был создан при помощи Parcel. Для знакомства и настройки дополнительных возможностей [обратись к документации](https://parceljs.org/).",
-  "homepage": "https://github.com/gavrila0909/goit-js-hw-08",
+  "homepage": "https://github.io/gavrila0909/goit-js-hw-08",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-08/",
-    "deploy": "gh-pages -d dist"
+    "build": "parcel build src/*.html --public-url /goit-js-hw-08/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/goitacademy/parcel-project-template.git"
+    "url": "git+https://github.com/gavrila0909/goit-js-hw-08"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
